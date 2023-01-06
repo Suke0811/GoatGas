@@ -1,6 +1,5 @@
 import time
-
-from ArduinoCommonApi import ArduinoCommonApi, PIN_MODE
+from rems_arduino import ArduinoCommonApi, PIN_MODE
 DEFAULT_PIN_IDs = [(0,2),(1,3),(2,4),(3,5)]#,(4,6),(5,7),(6,8),(7,9)]
 
 

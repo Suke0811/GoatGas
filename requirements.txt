@@ -1,1 +1,2 @@
 pyserial
+pip install git+https://github.com/Suke0811/Rems_Arduino.git
