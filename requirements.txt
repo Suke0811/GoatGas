@@ -1,2 +1,2 @@
 pyserial
-git+https://github.com/Suke0811/Rems_Arduino.git
+REMS_Arduino @ git+https://github.com/Suke0811/Rems_Arduino.git
